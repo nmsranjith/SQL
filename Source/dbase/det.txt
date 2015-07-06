@@ -1,0 +1,62 @@
+
+https://stackoverflow.com
+pmecollection@gmail.com-Cengageaus1$
+
+
+1) Server Maintenance
+   250,235,237,239,231 - APP
+   212,205 - DB
+   D:/TEMP
+   Weekly Once- Friday
+
+2) 10.188.0.212
+   D:\SSISBackup\HigherEducation_14062014\HigherEducation\HigherEducation - Higher Education Packages
+   D:\SSISBackup\CSVFeedImport\CSVFeedImport - All Feeds
+   D:\SSISBackup\Orca-Live - Schools
+      
+
+3) 10.188.0.205
+C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Packages
+
+   JOB_ETL_ACCOUNTS_ADDRESS_FEED - \\10.188.0.149\ftp\Outgoing  - \\10.188.0.149\ftp\Archiece 
+   HE - MAT,
+   Schools MAT, 
+   GALE - MAT,
+   Account USERS , 
+   PRICE
+   Account ,
+
+44755
+Softwares to Install:
+
+Oracle Sql Developer
+
+Credentials:
+
+ORCA LIVE- 
+Uname - AUS_PULL
+pwd - chang3m3
+HostName -  tl-ecomdb-orca.thomsonlearning.com
+Port - 1521
+service name - orca
+
+ORCA STAGING:
+Uname - AUS_PULL
+pwd - auspull01
+HostName -  tl-orcad01.thomsonlearning.com
+Port - 1521
+service name - orcadev1
+
+
+FTP:
+ecomprod
+Moceprod#
+HTC - Send files to & Bookmaster to retrieve files from
+\\10.188.0.149\ftp\Incoming
+Bookmaster - Send files to & HTC to retrieve files from
+\\10.188.0.149\ftp\Outgoing
+Both to move processed files to
+\\10.188.0.149\ftp\Archive
+UID: ecomprod
+
+
